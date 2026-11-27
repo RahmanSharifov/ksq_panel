@@ -1,5 +1,5 @@
 /* KSQ Məktəb Paneli — oflayn işləmə və avtomatik yeniləmə. Bu faylı dəyişməyə ehtiyac yoxdur. */
-const CACHE = 'ksq-panel-v2';
+const CACHE = 'ksq-panel-v4';
 const ASSETS = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './icon-maskable-512.png'];
 
 self.addEventListener('install', e => {
